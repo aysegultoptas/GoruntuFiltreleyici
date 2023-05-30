@@ -2,24 +2,25 @@
 “Görüntü Filtreleyici” projesinde istenilen resimlere farklı filtrelerin uygulanabileceği bir arayüz tasarımı gerçekleştirilmiştir. Bu projede Python programlama dili kullanılmıştır. Filtreleme işlemleri için OpenCV ve Numpy kütüphaneleri, arayüz için ise PyQt5 kütüphanesi kullanılmıştır.
 Gerçekleştirilen işlemler:
 
-*Tresholding
+* Tresholding
 
-*Histogram Eşitleme
+* Histogram Eşitleme
 
-*Median Blurlama
+* Median Blurlama
 
-*Mean Blurlama
+* Mean Blurlama
 
-*Laplacian
+* Laplacian
 
-*Gauss
+* Gauss
 
-*Unsharp
+* Unsharp
 
-*Embossing
+* Embossing
 
-*High Pass
+* High Pass
 
-*Renk Uyumlaması
+* Renk Uyumlaması
 
-*Görüntü Karıştırma
+* Görüntü Karıştırma
+
