@@ -3,13 +3,23 @@
 Gerçekleştirilen işlemler:
 
 *Tresholding
+
 *Histogram Eşitleme
+
 *Median Blurlama
+
 *Mean Blurlama
+
 *Laplacian
+
 *Gauss
+
 *Unsharp
+
 *Embossing
+
 *High Pass
+
 *Renk Uyumlaması
+
 *Görüntü Karıştırma
